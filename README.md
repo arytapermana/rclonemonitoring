@@ -1,5 +1,5 @@
 # rclone Monitoring
-a simple powershell app to check reclone background process using link to catch data
+a powershell code to check rclone background process using rclone rcd
 
 # Step
 mount clone <br>
