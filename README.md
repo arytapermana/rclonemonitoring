@@ -1,7 +1,7 @@
 # rclone Monitoring
 a powershell code to check rclone background process using rclone rcd
 
-![alt text](https://raw.githubusercontent.com/arytapermana/rclonemonitoring/refs/heads/main/rclonemonitor.png}
+![rclone monitoring preview](https://raw.githubusercontent.com/arytapermana/rclonemonitoring/refs/heads/main/rclonemonitor.png)
 
 # Step
 mount clone <br>
