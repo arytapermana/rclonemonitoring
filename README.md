@@ -18,4 +18,4 @@ $remotes = @(
 )
 ```
 
-3. compile the .ps1 using [PS2EXE](https://github.com/MScholtes/PS2EXEmak)
+3. compile the .ps1 using [PS2EXE](https://github.com/MScholtes/PS2EXE)
