@@ -11,7 +11,7 @@ rclone mount backblaze:/bucket Y: --rc --rc-addr localhost:5575 --vfs-cache-mode
 
 2. set remote on .ps1 <br>
 ```
-$remotes = @(
+$remotes = @( </b>
     @{ Name = "backblaze"; Port = 5575 },
     @{ Name = "otherbackblaze1"; Port = 5576 },
     @{ Name = "otherbackblaze2"; Port = 5577 }
